@@ -17,8 +17,8 @@ private Runnable updateTimerThread = new Runnable() {
 // START
 if(!isRunning){
     startTime = SystemClock.uptimeMillis();
-....customHandler.postDelayed(updateTimerThread, 0);
+    customHandler.postDelayed(updateTimerThread, 0);
+}
 //STOP
 customHandler.removeCallbacks(updateTimerThread);
 isRunning = false;
-}
