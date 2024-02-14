@@ -3,3 +3,4 @@
 - Timer HH:MM:SS in additional background thread Example: **TimerExample_HH-MM-SS.java**
 - Change Notch/Statusbar color: **ChangeColorOfNotch-StatusBar.java**
 - Handler and Runnable Example: **HandlerAndRunnableExample.java**
+- Alert dialog Example: **AlertDialogExample.java**
