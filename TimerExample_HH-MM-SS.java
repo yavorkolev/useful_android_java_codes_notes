@@ -1,6 +1,7 @@
 private Handler customHandler = new Handler();
 long timeInMilliseconds = 0L;
 boolean isRunning = false;
+long startTime = 0L;
 
 private Runnable updateTimerThread = new Runnable() {
     public void run() {
