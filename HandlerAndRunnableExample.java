@@ -14,3 +14,5 @@ private Runnable runnable = new Runnable() {
         worker();
     }
 };
+// to start it 
+runnable.run();
