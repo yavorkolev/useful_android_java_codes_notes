@@ -4,3 +4,4 @@
 - Change Notch/Statusbar color: **ChangeColorOfNotch-StatusBar.java**
 - Handler and Runnable Example: **HandlerAndRunnableExample.java**
 - Alert dialog Example: **AlertDialogExample.java**
+- Timer Example StartStopReset without using **SystemClock** Example: **TimerExampleStartStopResetNoSystemClock.java**
