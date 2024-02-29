@@ -46,4 +46,3 @@ public class MainActivity extends AppCompatActivity {
 //
 //</RelativeLayout>
 //<uses-permission android:name="android.permission.INTERNET"
-//<uses-permission android:name="android.permission.INTERNET"
