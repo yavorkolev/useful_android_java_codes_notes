@@ -10,3 +10,4 @@
 - Downloading **image** from **url** and showing it in **ImageView** Example: **ImageUrlToImageView.java**
 - Downloading **image** from **url** and showing it in **TextView** by image to text recognition with **com.google.android.gms:play-services-vision:20.1.3** Example: **UrlImageWithPhpPasswordToTextView-GoogleVision-ImageToText.java**
 - Download large image with async task Example: **DownloadLargeImageAsyncTaskExample**
+- Getting Result From Asynctask Back Into MainActivity (download image from URL extracting the text from the image and return the text) Example: **GettingResultFromAsynctaskBackIntoMainActivity.java**
